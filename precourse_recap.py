@@ -1,7 +1,8 @@
 cammy = 19
 brian = 30
+nadia = 26
 
-total = cammy + brian
+total = cammy + brian + nadia
 
 def added(a, d):
     c = a + d
@@ -9,3 +10,4 @@ def added(a, d):
 
 answer = added(2, 2)
 print(answer)
+print(total)
